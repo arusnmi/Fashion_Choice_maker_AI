@@ -20,11 +20,11 @@ During my research i actuly found a lot of models that are doing the same thing,
 
 # Model- selected and hypeerprameater tuning;
 
-for my model usen in the task i used gemini 2.5 pro exp, s i tought that it would give the best resualts. for hyperprameater tuning, i addjusted the temppture to be optmal to give a detailed response as i did not eant it to devate from the example prompts. 
+for my model usen in the task i used gemini 2.5 pro exp, s i tought that it would give the best resualts. for hyperprameater tuning, i addjusted the temppture to be optmal to give a detailed response as i did not eant it to devate from the example prompts. i speficly chose this model because it allowed me to have the best version of gemini as gemini 2.5 pro was not out yet. 
 
 # Prompts i fead into the model
 
-the prompts i fed intot h model are: 
+the prompts i fed into the model are
 * A male with a skinny body wearing a blue shirt to a formal meeting. The user wants a creative look, while also being polished enough to be among the people in the formal meeting. 
 
 
@@ -39,11 +39,13 @@ the prompts i fed intot h model are:
 
 # Model- simulation and resualts
 
-the simulated input prompt is-i want a recmendation for a male with a bubly body that is wearing a yellow shit to a lecture
+situation 1: 
+![alt text](<Screenshot 2025-04-18 121349.png>)
 
-the response-For attending a lecture, pair the yellow shirt with comfortable, well-fitting trousers in a neutral, darker color like navy blue or charcoal grey. Opt for a straight-leg or relaxed-fit chino or corduroy pant to ensure comfort and a flattering silhouette for a bubbly body type. Choose comfortable yet smart footwear such as clean, minimalist sneakers, loafers, or desert boots in a color like brown, navy, or grey. If needed, layer with a lightweight, unstructured blazer or a simple cardigan in a complementary neutral shade (like grey or navy) for a more polished look that doesn't add bulk. Keep accessories minimal; a simple watch and a belt that matches your shoes would suffice. Ensure the yellow shirt fits well – not too tight across the midsection – for optimal comfort during the lecture.
+situation 2: 
+![alt text](<Screenshot 2025-04-18 121534.png>)
 
- THe AI did exceptonaly well because it made the prompt very detailed and to the point, it followed te exampe prompts very well and gave a prargraph answer instead of a big answer. usualy,  the model would list down some technacil jargon, but after some twealing, it finaly made a good model. 
+the model that has be made now ismuch better than the eirleir stages of the model. based on the above responses, the model now genarated a clear and consise paragraph of the prompt, while in eirlier testing it genatated a masive and hard to read list. altho it mostly folows the standered path, it sometimes deivates from the orignal path to make a response, this is sceen in situation 1. overall the model dod very well and it was detailed and consice with its response .
 # Sources- analysis
 
 https://ieeexplore.ieee.org/document/10275967
