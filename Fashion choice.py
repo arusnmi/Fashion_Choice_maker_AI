@@ -18,7 +18,7 @@ imput=input("Please enter the prompt for your fashion recmandation:")
 
 prompt= """ Provide fashion recmendtions based on these exampls:
 
-Example 1
+example 1
 scnerio: Please suggest a casual summer outfit for a 20-year-old male who is 180 cm tall and prefers lightweight, trendy styles. Provide outfit details that focus on breathable fabrics and summer-appropriate colors.
 recmentation: For a casual summer outfit, consider a lightweight, short-sleeve linen shirt in a light color like white or pastel. Pair it with tailored shorts in a complementary color, such as khaki or light blue. Opt for breathable sneakers or loafers in a neutral shade. Accessorize with sunglasses and a stylish watch. A canvas backpack can complete the look while keeping it trendy and functional.
 
@@ -51,7 +51,7 @@ scenerio: A male with an athletic and tall body wearing chino pants to a summer 
 recmentation: For a summer festival, consider pairing lightweight chino pants in a light color with a short-sleeve, patterned button-up shirt. Opt for breathable sneakers or casual loafers to keep the look trendy and comfortable. Accessorize with a stylish watch and sunglasses. A lightweight denim jacket can be added for cooler evenings, while a canvas backpack can hold essentials while keeping the outfit casual and functional.
 
 Example 9
-scenerio: a male with a muscular body wearing a black t-shirt to a casual outing. The user prefers a sporty and trendy style, with a focus on lightweight fabrics and summer colors. Please include recommendations for shoes, accessories, and any additional layers for evening wear.
+scenerio:  A male with an athletic and tall body wearing chino pants to a summer festival. The user prefers a casual and trendy style, with a focus on lightweight fabrics and summer colors. Please include recommendations for shoes, accessories, and any additional layers for evening wear.
 recmentation: For a casual outing, consider pairing a fitted black t-shirt with lightweight, breathable joggers or shorts in a complementary color. Opt for trendy sneakers or slip-on shoes for comfort and style. Accessorize with a sporty watch and sunglasses. A lightweight bomber jacket can be added for cooler evenings, while a crossbody bag can keep your essentials handy without compromising the sporty look.
 
 Example 10
