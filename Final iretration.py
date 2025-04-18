@@ -11,6 +11,7 @@ from IPython.display import Markdown
 apikey="AIzaSyBYkCnr6h6YxXT_WM3Gk4vD0vVBy-SW9jY"
 
 genai.configure(api_key=apikey) 
+model=genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
 imput=input("Please enter the prompt for your fashion recmandation:")
 
 
@@ -60,5 +61,5 @@ example 11
 scenerio:"""
 
 
-response =  model.generate_content(prompt=prompt+imput, temperature=0.5, max_output_tokens=500)
+response =  model.generate_content(prompt+imput, generation_config=genai.types.GenerationConfig(temperature=0.7))
 print (response.text )
