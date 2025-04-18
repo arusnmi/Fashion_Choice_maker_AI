@@ -53,3 +53,5 @@ https://arxiv.org/html/2402.17279v3
 https://www.diva-portal.org/smash/get/diva2:1603327/FULLTEXT01.pdf
 https://link.springer.com/article/10.1007/s42979-023-01932-9
 
+# gemini apI genaration scereenshot
+![alt text](<Screenshot 2025-04-18 120358.png>)
